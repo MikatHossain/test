@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is category of product
+=======
+computer product
+>>>>>>> product
